@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Grocerzy</string>
+    <string name="action_clear">Clear All</string>
+    <string name="action_delete">Delete List</string>
+    <string name="action_map">Map</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCp6NqXuT_oyCgTLCtrSDQFtqIkOkDRXyU</string>
+    <string name="todo">TODO</string>
+    <string name="action_addEvent">Add To Calendar</string>
+    <string name="action_showTotal">Show Total Price</string>
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinatorLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/unitDetail1"
+        android:layout_width="82dp"
+        android:layout_height="216dp"
+        android:layout_marginTop="108dp"
+        android:text=""
+        android:visibility="visible"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="@android:color/transparent"/>
+
+    <Button
+        android:id="@+id/unitDetail2"
+        android:layout_width="82dp"
+        android:layout_height="216dp"
+        android:layout_marginStart="80dp"
+        android:layout_marginTop="108dp"
+        android:text=""
+        android:visibility="visible"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="@android:color/transparent"/>
+
+    <Button
+        android:id="@+id/unitDetail3"
+        android:layout_width="82dp"
+        android:layout_height="216dp"
+        android:layout_marginStart="164dp"
+        android:layout_marginTop="108dp"
+        android:text=""
+        android:visibility="visible"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="@android:color/transparent"/>
+
+    <Button
+        android:id="@+id/unitDetail4"
+        android:layout_width="82dp"
+        android:layout_height="216dp"
+        android:layout_marginStart="248dp"
+        android:layout_marginTop="108dp"
+        android:text=""
+        android:visibility="visible"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="@android:color/transparent"/>
+
+    <Button
+        android:id="@+id/unitDetail5"
+        android:layout_width="82dp"
+        android:layout_height="216dp"
+        android:layout_marginStart="328dp"
+        android:layout_marginTop="108dp"
+        android:text=""
+        android:visibility="visible"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="@android:color/transparent"/>
+
+    <Button
+        android:id="@+id/unitlist"
+        android:layout_width="80dp"
+        android:layout_height="63dp"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="660dp"
+        android:text=""
+        android:visibility="visible"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:background="@android:color/transparent"/>
+
+</android.support.constraint.ConstraintLayout>
